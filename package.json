@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-apple-pay",
+  "version": "1.0.0",
+  "description": "Cordova ApplePay plugin",
+  "cordova": {
+    "id": "cordova-plugin-apple-pay",
+    "platforms": [
+      "ios"
+    ]
+  }
+}
